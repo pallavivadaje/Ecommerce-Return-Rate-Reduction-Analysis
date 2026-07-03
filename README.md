@@ -190,6 +190,9 @@ The dashboard is divided into three pages.
 
 # 📁 Project Structure
 
+## 📁 Project Structure
+
+```text
 Ecommerce-Return-Rate-Reduction-Analysis/
 │
 ├── Dataset/
@@ -210,6 +213,7 @@ Ecommerce-Return-Rate-Reduction-Analysis/
 │   └── Dashboard_Page3.png
 │
 └── README.md
+```
 
 
 # 💡 Skills Demonstrated
