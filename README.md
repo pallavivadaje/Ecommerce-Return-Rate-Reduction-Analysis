@@ -196,21 +196,21 @@ The dashboard is divided into three pages.
 Ecommerce-Return-Rate-Reduction-Analysis/
 │
 ├── Dataset/
-│   └── ecommerce_returns_dataset.csv
+│   └── E-commerce Return Rate Reduction Analysis.csv
 │
 ├── Python/
-│   └── Ecommerce_Return_Analysis.ipynb
+│   └── E-commerce Return Rate Reduction Analysis.ipynb
 │
 ├── SQL/
-│   └── Ecommerce_Return_Analysis.sql
+│   └── E-commerce Return Rate Reduction Analysis.sql
 │
 ├── Power BI/
-│   └── Ecommerce_Return_Analysis.pbix
+│   └── Ecommerce Return Rate Reduction Analysis.pbix
 │
 ├── Images/
-│   ├── Dashboard_Page1.png
-│   ├── Dashboard_Page2.png
-│   └── Dashboard_Page3.png
+│   ├── EXCECUTIVE DASHBOARD.png
+│   ├── CUSTOMER AND RETURN ANALYSIS.png
+│   └── PROFITABILITY AND SUSTAINABILITY ANALYSIS.png
 │
 └── README.md
 ```
