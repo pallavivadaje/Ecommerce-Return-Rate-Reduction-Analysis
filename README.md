@@ -222,8 +222,6 @@ Ecommerce-Return-Rate-Reduction-Analysis/
 - Data Transformation
 - Exploratory Data Analysis (EDA)
 - SQL Query Writing
-- Window Functions
-- Common Table Expressions (CTEs)
 - Data Visualization
 - Dashboard Development
 - DAX Measures
